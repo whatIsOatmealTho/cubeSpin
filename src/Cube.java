@@ -16,4 +16,16 @@ public class Cube {
         vectors[6] = new Vector(100,-100,500);
         vectors[7] = new Vector(-100,-100,500);
     }
+
+    /*public updateCoords(int[][] coords) {
+        vectors[0] = new Vector(coords[0][0],coords[0][1], coords[0][2]);
+        vectors[1] = new Vector(coords[0][0],100,300);
+        vectors[2] = new Vector(100,-100,300);
+        vectors[3] = new Vector(-100,-100,300);
+
+        vectors[4] = new Vector(100,100,500);
+        vectors[5] = new Vector(-100,100,500);
+        vectors[6] = new Vector(100,-100,500);
+        vectors[7] = new Vector(-100,-100,500);
+    }*/
 }

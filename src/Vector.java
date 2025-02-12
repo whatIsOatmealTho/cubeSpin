@@ -1,1 +1,1 @@
-public record Vector(float x, float y, float z) {}
+public record Vector(int x, int y, int z) {}
